@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\faculdade\2º SEMESTRE\TIO LU-TECNICAS DE PROGRAMAÇÃO\ex 10\obj\Debug\net7.0\ex 10.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\faculdade\2º SEMESTRE\TIO LU-TECNICAS DE PROGRAMAÇÃO\ex 10\obj\Debug\net7.0\ex 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\faculdade\2º SEMESTRE\TIO LU-TECNICAS DE PROGRAMAÇÃO\ex 10\obj\Debug\net7.0\ex 10.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\faculdade\2º SEMESTRE\TIO LU-TECNICAS DE PROGRAMAÇÃO\ex 10\obj\Debug\net7.0\ex 10.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\faculdade\2º SEMESTRE\TIO LU-TECNICAS DE PROGRAMAÇÃO\ex 10\obj\Debug\net7.0\ex 10.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\faculdade\2º SEMESTRE\TIO LU-TECNICAS DE PROGRAMAÇÃO\ex 10\bin\Debug\net7.0\ex 10.exe
+C:\Users\Cliente\Desktop\faculdade\2º SEMESTRE\TIO LU-TECNICAS DE PROGRAMAÇÃO\ex 10\bin\Debug\net7.0\ex 10.deps.json
+C:\Users\Cliente\Desktop\faculdade\2º SEMESTRE\TIO LU-TECNICAS DE PROGRAMAÇÃO\ex 10\bin\Debug\net7.0\ex 10.runtimeconfig.json
+C:\Users\Cliente\Desktop\faculdade\2º SEMESTRE\TIO LU-TECNICAS DE PROGRAMAÇÃO\ex 10\bin\Debug\net7.0\ex 10.dll
+C:\Users\Cliente\Desktop\faculdade\2º SEMESTRE\TIO LU-TECNICAS DE PROGRAMAÇÃO\ex 10\bin\Debug\net7.0\ex 10.pdb
+C:\Users\Cliente\Desktop\faculdade\2º SEMESTRE\TIO LU-TECNICAS DE PROGRAMAÇÃO\ex 10\obj\Debug\net7.0\ex 10.dll
+C:\Users\Cliente\Desktop\faculdade\2º SEMESTRE\TIO LU-TECNICAS DE PROGRAMAÇÃO\ex 10\obj\Debug\net7.0\refint\ex 10.dll
+C:\Users\Cliente\Desktop\faculdade\2º SEMESTRE\TIO LU-TECNICAS DE PROGRAMAÇÃO\ex 10\obj\Debug\net7.0\ex 10.pdb
+C:\Users\Cliente\Desktop\faculdade\2º SEMESTRE\TIO LU-TECNICAS DE PROGRAMAÇÃO\ex 10\obj\Debug\net7.0\ex 10.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\faculdade\2º SEMESTRE\TIO LU-TECNICAS DE PROGRAMAÇÃO\ex 10\obj\Debug\net7.0\ref\ex 10.dll
